@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html#methods",
+    "href": "index.html#methods",
+    "title": "9041 Assignment 2",
+    "section": "Methods",
+    "text": "Methods\n\nParticipants\nIn this data set there were 63 participants, with varying distributions of age group and gender (Table 1).\n\n\n\n\n\n\nDistribution of Males and Females by Age Group\n\n\nGender\n18-24\n25-34\n35-44\n45-54\n55-64\n\n\n\n\nFemale\n35\n9\n3\n1\n2\n\n\nMale\n9\n3\n0\n0\n1\n\n\n\n\n\n\n\nMeasures\nIn this Psych graduate survey data set, the 3 factors refer to the 3 composites included in the survey. SA, which refers to Social Interaction Anxiety Scale Question, (Cronbach’s alpha = 0.9). AA, which refers to Experiences in Close Relationships Anxiety Subscale Question, (Cronbach’s alpha = 0.94). SEst, which refers to Rosenberg Self-Esteem Scale Question (Cronbach’s alpha = 0.85).\n\n\nData Analysis Strategy\nThe data for variables reverse key items 5, 9, and 11 in the Social Interaction Anxiety Scale responses, and reverse key items 2, 5, 6, 8, and 9 in the Rosenberg Self-Esteem Scale. ."
+  },
+  {
+    "objectID": "index.html#results",
+    "href": "index.html#results",
+    "title": "9041 Assignment 2",
+    "section": "Results",
+    "text": "Results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for the Psych Graduate survey\n\n\nSubscales\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalphas\n\n\n\n\nSA\n2.54\n2.45\n0.70\n3.00\n0.90\n\n\nAA\n3.40\n3.11\n1.62\n5.89\n0.94\n\n\nSEst\n2.23\n2.20\n0.51\n2.20\n0.85\n\n\n\n\n\nIn this Psych graduate survey data set, the 3 factors refer to the 3 composites included in the survey. Participants had a mean score on SA of 2.54, on AA of 3.4, on SEst of 2.23.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for Psych Graduate survey in people who are between 25 to 34 and in a relationship\n\n\nSubscales_filtered\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalphas_filtered\n\n\n\n\nSA\n2.68\n2.8\n0.51\n1.45\n0.90\n\n\nAA\n3.53\n3.0\n1.88\n5.33\n0.94\n\n\nSEst\n2.19\n2.2\n0.49\n1.70\n0.85\n\n\n\n\n\nWhen only including participants between 25 to 34 and in a relationship, this Psych graduate survey data set, the 2 factors refer to the 3 composites included in the survey. Participants had a mean score on SA of 2.68, on AA of 3.53, on SEst of 2.19."
+  },
+  {
+    "objectID": "index.html#discussion",
+    "href": "index.html#discussion",
+    "title": "9041 Assignment 2",
+    "section": "Discussion",
+    "text": "Discussion"
+  },
+  {
+    "objectID": "bfi_index.html#methods",
+    "href": "bfi_index.html#methods",
+    "title": "9041 Assignment 2",
+    "section": "Methods",
+    "text": "Methods\n\nParticipants\nIn this data set there were 2800 participants, with varying distributions of education type (Table 1).\n\n\n\n\n\n\nDistribution of Males and Females by Education Level\n\n\neducation\nFemale\nMale\n\n\n\n\nCollege Graduate\n260\n134\n\n\nFinished High School\n189\n103\n\n\nGraduate Degree\n266\n152\n\n\nHigh School\n131\n93\n\n\nNA\n142\n81\n\n\nSome College\n893\n356\n\n\n\n\n\n\n\nMeasures\nIn this BFI data set, the 5 factors refer to the 5 composites included in the Big Five Inventory. Openness, which indicates one’s open-mindedness, creativity, and likelihood to embrace new experiences (Cronbach’s alpha = 0.6). Conscientiousness, which refers to one’s tendency to be reliable, organized, and disciplined (Cronbach’s alpha = 0.72). Extraversion, which refers to one’s social interactions and emotional expression (Cronbach’s alpha = 0.76). Agreeableness, which refers to one’s tendency to cooperate or desire to compete (Cronbach’s alpha = 0.7). and Neuroticism which refers to one’s tendency toward depression, anxiety, or negative feelings (Cronbach’s alpha =0.81).\n\n\nData Analysis Strategy\nThe data for variables O2, C4, E1, E2, and A1 were reverse keyed."
+  },
+  {
+    "objectID": "bfi_index.html#results",
+    "href": "bfi_index.html#results",
+    "title": "9041 Assignment 2",
+    "section": "Results",
+    "text": "Results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for the Big Five Inventory Subscales\n\n\nSubscales\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalpha\n\n\n\n\nOpenness\n4.59\n4.6\n0.80\n4.8\n0.60\n\n\nConscientiousness\n4.27\n4.4\n0.95\n5.0\n0.72\n\n\nExtraversion\n4.15\n4.2\n1.05\n5.0\n0.76\n\n\nAgreeableness\n4.65\n4.8\n0.89\n5.0\n0.70\n\n\nNeuroticism\n3.16\n3.0\n1.19\n5.0\n0.81\n\n\n\n\n\nIn this BFI data set, the 5 factors refer to the 5 composites included in the Big Five Inventory. Participants had a mean score on Openness of 4.59, on Conscientiousness of 4.27, on Extraversion of 4.15, on Agreeableness of 4.65, and on Neuroticism of 3.16.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for the Big Five Inventory Subscales in people 18 to 65\n\n\nSubscales\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalpha\n\n\n\n\nOpenness\n4.60\n4.6\n0.81\n4.8\n0.60\n\n\nConscientiousness\n4.31\n4.4\n0.94\n5.0\n0.72\n\n\nExtraversion\n4.17\n4.2\n1.05\n5.0\n0.76\n\n\nAgreeableness\n4.69\n4.8\n0.88\n5.0\n0.70\n\n\nNeuroticism\n3.14\n3.0\n1.19\n5.0\n0.81\n\n\n\n\n\nWhen only including participants over age 18 and below age 65, this BFI data set, the 5 factors refer to the 5 composites included in the Big Five Inventory. Participants had a mean score on Openness of 4.6, on Conscientiousness of 4.31, on Extraversion of 4.17, on Agreeableness of 4.69, and on Neuroticism of 3.14."
+  },
+  {
+    "objectID": "bfi_index.html#discussion",
+    "href": "bfi_index.html#discussion",
+    "title": "9041 Assignment 2",
+    "section": "Discussion",
+    "text": "Discussion"
+  }
+]
