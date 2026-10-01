@@ -225,24 +225,24 @@ gttable.3
 
 ### Participants
 
-In this data set there were `{r} n` participants, with varying distributions of age group and gender (Table 1).
+In this data set there were `{r} n` participants, separated to different age groups by gender (Table 1).
 
 `{r} gttable.1`
 
 ### Measures
 
-In this Psych graduate survey data set, the 3 factors refer to the 3 composites included in the survey. SA, which refers to Social Interaction Anxiety Scale Question, (Cronbach's alpha = `{r} alphas[1]`). AA, which refers to Experiences in Close Relationships Anxiety Subscale Question,  (Cronbach's alpha = `{r} alphas[2]`). SEst, which refers to Rosenberg Self-Esteem Scale Question (Cronbach's alpha = `{r} alphas[3]`).
+In this Psychology graduate student survey, there are three 3 question sets measuring different aspects of individual degree of social anxiety. SA, which refers to Social Interaction Anxiety Scale Question, (Cronbach's alpha = `{r} alphas[1]`). AA, which refers to Experiences in Close Relationships Anxiety Subscale Question,  (Cronbach's alpha = `{r} alphas[2]`). SEst, which refers to Rosenberg Self-Esteem Scale Question (Cronbach's alpha = `{r} alphas[3]`).
 
 ### Data Analysis Strategy
 
-The data for variables reverse key items 5, 9, and 11 in the Social Interaction Anxiety Scale responses, and reverse key items 2, 5, 6, 8, and 9 in the Rosenberg Self-Esteem Scale. .
+In the Social Interaction Anxiety Scale responses (SA), items 5, 9, and 11 are reverse keyed. In the Rosenberg Self-Esteem Scale (SEst), items 2, 5, 6, 8, and 9 are reverse keyed. No item in Close Relationship Anxiety Subscale Question (AA) is reverse keyed.
 
 ## Results
 
 `{r} gttable.2`
-In this Psych graduate survey data set, the 3 factors refer to the 3 composites included in the survey. Participants had a mean score on SA of `{r} final.reptable[1,2]`, on AA of `{r} final.reptable[2,2]`, on SEst of `{r} final.reptable[3,2]`.
+In this Psychology graduate student survey, participants had a mean score on SA of `{r} final.reptable[1,2]`, on AA of `{r} final.reptable[2,2]`, on SEst of `{r} final.reptable[3,2]`.
 
 `{r} gttable.3`
-When only including participants between 25 to 34 and in a relationship, this Psych graduate survey data set, the 2 factors refer to the 3 composites included in the survey. Participants had a mean score on SA of `{r} filtered.reptable[1,2]`, on AA of `{r} filtered.reptable[2,2]`, on SEst of `{r} filtered.reptable[3,2]`.
+When only including participants between 25 to 34 and in a relationship, participants had a mean score on SA of `{r} filtered.reptable[1,2]`, on AA of `{r} filtered.reptable[2,2]`, on SEst of `{r} filtered.reptable[3,2]`.
 
 ## Discussion
